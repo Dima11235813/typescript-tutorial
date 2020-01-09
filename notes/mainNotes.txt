@@ -1,0 +1,22 @@
+Resources used 
+
+set up env
+
+https://auth0.com/blog/use-typescript-to-create-a-secure-api-with-nodejs-and-express-getting-started/
+
+types 
+
+@types/node @types/express @types/dotenv @types/cors @types/helmet
+
+deps
+
+express dotenv cors helmet
+
+set up build
+npm i -D ts-loader webpack webpack-cli webpack-node-externals
+
+run 
+
+npm run webpack
+
+to create the bundle
