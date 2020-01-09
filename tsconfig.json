@@ -4,5 +4,6 @@
       "module": "CommonJS",
       "sourceMap": true,
       "outDir": "/public",
+      "esModuleInterop": true
     }
   }
