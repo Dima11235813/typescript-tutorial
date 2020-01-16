@@ -1,0 +1,1 @@
+class StrictPropertyInitExample {public CommonlyViewedValue: string}

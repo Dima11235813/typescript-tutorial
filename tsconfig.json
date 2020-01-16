@@ -1,9 +1,10 @@
 {
     "compilerOptions": {
-      "target": "es5",
+      "target": "ES5",
       "module": "CommonJS",
       "sourceMap": true,
       "outDir": "/public",
-      "esModuleInterop": true
+      "esModuleInterop": true,
+      "strict": true
     }
   }
